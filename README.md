@@ -29,8 +29,8 @@ Installation
 
 Clone the repository:
 
-git clone https://github.com/your-username/Volume-Control-AI.git
-cd Volume-Control-AI
+git clone https://github.com/icrohan/Volume-Control.git
+cd Volume-Control
 
 Install dependencies:
 
@@ -40,7 +40,7 @@ Usage
 
 Run the script:
 
-python volume_control.py
+python volumecontrol.py
 
 Move your hand up or down to adjust the volume.
 
